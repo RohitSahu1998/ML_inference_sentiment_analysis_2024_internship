@@ -1,0 +1,2 @@
+# ML_inference_sentiment_analysis_2024_internship
+Sentiment_analysis_flipkart_reviews
